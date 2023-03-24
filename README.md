@@ -1,6 +1,6 @@
 # setup_index.py
 
-This simple python script will create a vector index file from a given knowledge (stored in './Data'). It will accept any txt file.
+This simple python script will create a vector index file from a given knowledge (stored in './Data'). It will accept any txt file(s).
 
 ## Installation
 
